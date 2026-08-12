@@ -35,6 +35,10 @@ The application shows:
 - Majority-vote result
 - **Recommended crop to cultivate**
 
+## 🚀 Live Demo
+
+https://crop-recommendation-aiml.streamlit.app/
+
 EDA/visualization code is not included in the final runtime project because it is not needed in the UI. Crop labels are encoded with LabelEncoder for XGBoost and converted back to crop names for display.
 
 ## Run
